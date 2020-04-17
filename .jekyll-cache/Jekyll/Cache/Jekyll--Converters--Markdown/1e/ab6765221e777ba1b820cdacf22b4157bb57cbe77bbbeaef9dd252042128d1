@@ -1,4 +1,4 @@
-I"%
+I"O
 <div class="card categories">
     <!-- top-category -->
     <div class="card-header d-flex justify-content-between hide-border-bottom" id="h_Blogging">
@@ -6,7 +6,7 @@
       
         <i class="far fa-folder-open fa-fw"></i>
       
-        <a href="/categories/blogging/" class="ml-1 mr-2">Blogging</a>
+        <a href="/gauravgyawali/categories/blogging/" class="ml-1 mr-2">Blogging</a>
         <!-- content count -->
         
         <span class="text-muted small font-weight-light">
@@ -35,7 +35,7 @@
         
         <li class="list-group-item">
           <i class="far fa-folder fa-fw"></i>
-          <a href="/categories/journal/" class="ml-1 mr-2">Journal</a>
+          <a href="/gauravgyawali/categories/journal/" class="ml-1 mr-2">Journal</a>
           
           <span class="text-muted small font-weight-light">1
             post
@@ -49,6 +49,6 @@
   </div>
 <p><!-- .card --></p>
 
-<script src="/assets/js/dist/category-collapse.min.js" async=""></script>
+<script src="/gauravgyawali/assets/js/dist/category-collapse.min.js" async=""></script>
 
 :ET
