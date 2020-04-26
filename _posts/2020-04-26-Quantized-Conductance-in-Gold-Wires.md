@@ -1,7 +1,7 @@
 ---
 title: Quantized Conductance in Gold Wires
 author: Gaurav Gyawali
-date: 2020-04-26 17:41:00
+date: 2020-04-26 8:41:00
 categories: [Physics, Condensed Matter]
 tags: [Physics, Condensed Matter]
 ---
