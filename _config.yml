@@ -85,6 +85,7 @@ markdown: kramdown
 highlighter: rouge
 
 kramdown:
+  math_engine: mathjax
   input: GFM
   syntax_highlighter: rouge
   syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
@@ -95,10 +96,7 @@ kramdown:
     block:
       line_numbers: true
       start_line: 1
-
-
-plugins:
-  - jekyll-katex
+ 
 
 permalink: /posts/:title/
 
