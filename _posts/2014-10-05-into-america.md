@@ -2,7 +2,7 @@
 title: Into America
 author: Gaurav Gyawali
 date: 2014-10-05 11:33:00 -0500
-categories: [Blogging, Journal]
+categories: [Blog, Journal]
 tags: [New Orleans]
 ---
 
